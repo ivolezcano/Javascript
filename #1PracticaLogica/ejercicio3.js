@@ -16,4 +16,4 @@ function check(str){
     return false
 }
 
-console.log(check('s alas'))
+console.log(check('dabale arroz a la zorra el abad'))
